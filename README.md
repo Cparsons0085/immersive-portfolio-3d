@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a5b5f6dc-0c10-4114-9c6f-d953f4188d94/deploy-status)](https://app.netlify.com/projects/cristy-parsons-immersive-portfolio/deploys)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
